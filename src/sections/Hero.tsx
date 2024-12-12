@@ -55,7 +55,7 @@ export const Hero = () => {
                src={cylinderImage.src}
                width={220}
                height={220}
-               alt={cylinderImage}
+               alt={"cylinderImage"}
                style={{
                    translateY
                }}
@@ -64,7 +64,7 @@ export const Hero = () => {
                src={noodleImage.src}
                width={220}
                height={220}
-               alt={noodleImage}
+               alt={"noodleImage"}
                style={{translateY}}
                className="hidden lg:block top-[524px] left-[448px] absolute rotate-[30deg]"/>
          </div>

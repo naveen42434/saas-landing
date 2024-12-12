@@ -23,13 +23,13 @@ export const CallToAction = () => {
           <motion.img
               src={starImage.src}
               style={{translateY}}
-              alt={starImage}
+              alt={"star illustration"}
               width={360}
               height={360}
               className="absolute -top-[137px] -left-[350px]"/>
           <motion.img
               src={springImage.src}
-              alt={springImage}
+              alt={"spring illustration"}
               style={{translateY}}
               width={363}
               height={363}

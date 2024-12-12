@@ -19,19 +19,19 @@ export const LogoTicker = () => {
           ease:"linear",
           repeatType:"loop"
         }}>
-          <Image src={acmeLogo} alt={acmeLogo} className="logo-ticker-image"/>
-          <Image src={quantumLogo} alt={quantumLogo} className="logo-ticker-image"/>
-          <Image src={echoLogo} alt={echoLogo} className="logo-ticker-image"/>
-          <Image src={celestialLogo} alt={celestialLogo} className="logo-ticker-image"/>
-          <Image src={pulseLogo} alt={pulseLogo} className="logo-ticker-image"/>
-          <Image src={apexLogo} alt={apexLogo} className="logo-ticker-image"/>
+          <Image src={acmeLogo} alt={"acmeLogo"} className="logo-ticker-image"/>
+          <Image src={quantumLogo} alt={"quantumLogo"} className="logo-ticker-image"/>
+          <Image src={echoLogo} alt={"echoLogo"} className="logo-ticker-image"/>
+          <Image src={celestialLogo} alt={"celestialLogo"} className="logo-ticker-image"/>
+          <Image src={pulseLogo} alt={"pulseLogo"} className="logo-ticker-image"/>
+          <Image src={apexLogo} alt={"apexLogo"} className="logo-ticker-image"/>
 
-          <Image src={acmeLogo} alt={acmeLogo} className="logo-ticker-image"/>
-          <Image src={quantumLogo} alt={quantumLogo} className="logo-ticker-image"/>
-          <Image src={echoLogo} alt={echoLogo} className="logo-ticker-image"/>
-          <Image src={celestialLogo} alt={celestialLogo} className="logo-ticker-image"/>
-          <Image src={pulseLogo} alt={pulseLogo} className="logo-ticker-image"/>
-          <Image src={apexLogo} alt={apexLogo} className="logo-ticker-image"/>
+          <Image src={acmeLogo} alt={"acmeLogo"} className="logo-ticker-image"/>
+          <Image src={quantumLogo} alt={"quantumLogo"} className="logo-ticker-image"/>
+          <Image src={echoLogo} alt={"echoLogo"} className="logo-ticker-image"/>
+          <Image src={celestialLogo} alt={"celestialLogo"} className="logo-ticker-image"/>
+          <Image src={pulseLogo} alt={"pulseLogo"} className="logo-ticker-image"/>
+          <Image src={apexLogo} alt={"apexLogo"} className="logo-ticker-image"/>
         </motion.div>
       </div>
     </div>
